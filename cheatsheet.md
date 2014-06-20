@@ -1,9 +1,9 @@
 ## Cheat sheet Proposal for ScalaDays '14 ##
 
 The following examples are taken from one of the following sources:
-> http://docs.scala-lang.org/cheatsheets/
-> https://github.com/lampepfl/progfun-wiki/blob/gh-pages/CheatSheet.md
-> https://github.com/sjuvekar/reactive-programming-scala/blob/master/ReactiveCheatSheet.md
+* http://docs.scala-lang.org/cheatsheets/
+* https://github.com/lampepfl/progfun-wiki/blob/gh-pages/CheatSheet.md
+* https://github.com/sjuvekar/reactive-programming-scala/blob/master/ReactiveCheatSheet.md
 
 ### variables and functions
 
