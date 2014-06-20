@@ -1,5 +1,10 @@
+## Cheat sheet Proposal for ScalaDays '14 ##
 
-## Scala Days Cheat Sheet ##
+The following examples are taken from one of the following sources:
+> http://docs.scala-lang.org/cheatsheets/
+> https://github.com/lampepfl/progfun-wiki/blob/gh-pages/CheatSheet.md
+> https://github.com/sjuvekar/reactive-programming-scala/blob/master/ReactiveCheatSheet.md
+
 ### variables and functions
 
     val x = 1                                       -- constant
@@ -187,7 +192,3 @@ These operations must satisfy three important properties:
       def tryComplete(result: Try[T]): Boolean
     }
 
-##### sources: 
-> http://docs.scala-lang.org/cheatsheets/
-> https://github.com/lampepfl/progfun-wiki/blob/gh-pages/CheatSheet.md
-> https://github.com/sjuvekar/reactive-programming-scala/blob/master/ReactiveCheatSheet.md
