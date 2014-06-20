@@ -1,4 +1,4 @@
 scalacheat
 ==========
 
-Cheat Sheet Brainstorm for ScalaDays2014
+Cheat Sheet brainstorming for ScalaDays2014
